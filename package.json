@@ -1,14 +1,11 @@
-"devDependencies": {
-  "typescript": "^5",
-  "@types/react": "^18",
-  "@types/node": "^20"
-}
-
 {
   "name": "jball348.co.uk",
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
     "vercel-build": "next build"
   },
   "dependencies": {
