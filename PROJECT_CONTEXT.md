@@ -1,110 +1,143 @@
 # PROJECT_CONTEXT.md
 
-## Project Overview
+## Project Name
 
-This repository contains the source code for a personal brand website.
+John Fairfax-Ball Personal Website
 
-The site is intended to act as:
+---
 
-* Personal homepage
-* Professional portfolio
-* Project showcase
-* Long-term content platform
+## Purpose
 
-The website should remain lightweight, fast, SEO-friendly, and easy to maintain.
+A professional personal brand website for John Fairfax-Ball.
+
+The website exists to:
+
+* Establish a professional online presence
+* Showcase projects
+* Demonstrate technical curiosity
+* Share work and achievements
+* Provide contact information
+
+This is not intended to be a blog platform.
+
+---
+
+## Owner
+
+Name:
+John Fairfax-Ball
+
+Primary Role:
+Account Manager
+
+Professional Interests:
+
+* Technology
+* Artificial Intelligence
+* Automation
+* Business Development
+* Sales Enablement
+* Modern Software
 
 ---
 
 ## Technology Stack
 
 Framework:
-
-* Next.js (App Router)
+Next.js
 
 Language:
-
-* TypeScript
+TypeScript
 
 Styling:
-
-* Tailwind CSS
+Tailwind CSS
 
 Hosting:
-
-* Vercel
+Vercel
 
 Source Control:
-
-* GitHub
+GitHub
 
 Domain:
-
-* Custom domain
+jball348.co.uk
 
 ---
 
-## Design Principles
+## Design Direction
 
-1. Minimalist
-2. Professional
-3. Dark mode first
-4. Mobile first
-5. Fast loading
-6. Accessible
-7. Content-focused
+The visual style should feel:
+
+* Modern
+* Professional
+* Technical
+* Confident
+* Minimal
+
+Inspirations:
+
+* Vercel
+* Linear
+* OpenAI
+* Anthropic
+
+Dark mode is the default experience.
 
 Avoid:
 
-* Unnecessary animations
-* Excessive dependencies
-* Complex state management
-* Premature backend development
+* Flashy animations
+* Excessive colour
+* Complex visual effects
+* Unnecessary dependencies
+
+---
+
+## Site Structure
+
+Pages:
+
+* Home
+* About
+* Projects
+* Contact
+
+---
+
+## Home Page Goals
+
+The homepage should immediately communicate:
+
+Who John is.
+
+What he does.
+
+Why someone should connect with him.
+
+Primary CTA:
+
+* View Projects
+
+Secondary CTA:
+
+* Contact
+
+---
+
+## Development Principles
+
+When contributing:
+
+* Prefer simplicity.
+* Prefer maintainability.
+* Keep components reusable.
+* Avoid premature optimisation.
+* Avoid unnecessary libraries.
+
+All changes should support the long-term personal brand objective.
 
 ---
 
 ## Current Phase
 
-Phase 0: Initial Setup
+Phase 0
 
-Status:
-
-* Planning repository structure
-* Creating foundational files
-* Defining content model
-
----
-
-## AI Assistant Instructions
-
-When contributing to this project:
-
-* Preserve existing architecture.
-* Prefer simple solutions over complex solutions.
-* Keep components reusable.
-* Maintain consistency with existing design patterns.
-* Avoid introducing dependencies unless clearly justified.
-* Explain architectural decisions before implementing major changes.
-
-When uncertain:
-
-* Ask for clarification rather than making assumptions.
-
----
-
-## Future Goals
-
-Phase 1:
-
-* Core website
-
-Phase 2:
-
-* Structured content
-
-Phase 3:
-
-* Blog
-
-Phase 4:
-
-* Audience growth and authority building
+Repository creation and foundational architecture.
