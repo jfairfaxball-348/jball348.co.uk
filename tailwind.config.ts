@@ -1,33 +1,11 @@
-import type { Config } from "tailwindcss";
-
-const config: Config = {
+export default {
   darkMode: "class",
   content: [
     "./app/**/*.{ts,tsx}",
     "./components/**/*.{ts,tsx}",
-    "./src/**/*.{ts,tsx}",
   ],
   theme: {
-    extend: {
-      colors: {
-        zinc: {
-          950: "#09090b",
-        },
-      },
-      fontFamily: {
-        sans: [
-          "Inter",
-          "ui-sans-serif",
-          "system-ui",
-          "-apple-system",
-          "BlinkMacSystemFont",
-          "Segoe UI",
-          "sans-serif",
-        ],
-      },
-    },
+    extend: {},
   },
   plugins: [],
 };
-
-export default config;
